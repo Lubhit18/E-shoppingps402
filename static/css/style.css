@@ -1,0 +1,13 @@
+.box{
+    height: 200px;
+    width: 200px;
+    background-color: lightcoral;
+    /* border-radius: 75%; */
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.text{
+    color: aliceblue;
+}
